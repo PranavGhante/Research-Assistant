@@ -7,7 +7,7 @@ This extension helps by **summarizing selected content instantly** and also prov
 ---
 
 ## ✨ Features
-- 📝 **Summarize Selected Text**: Highlight any text on a webpage and instantly get a concise summary.  
+- 📝 **Summarize Selected Text**: Highlight any text on a webpage and instantly get a concise summary with help of AI.  
 - 📌 **Save Notes**: Create and manage your personal notes directly inside the extension.  
 - 🔍 **Research Friendly**: Perfect for students, researchers, and professionals to quickly capture insights.  
 - 💾 **Persistent Storage**: Notes are saved and can be revisited anytime within the extension.  
